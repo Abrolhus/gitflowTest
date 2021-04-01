@@ -1,1 +1,6 @@
 este é o texto do primeiro commit.
+teste 123 coisas da feature 02 
+ainda da feature 02
+feature 02 eh a melhor
+essa feature 2 eh boa mesmo ein
+

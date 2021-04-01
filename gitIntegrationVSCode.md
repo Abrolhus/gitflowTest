@@ -16,5 +16,4 @@
 
 ## Outros
 - Doxygen Documentation Generator
-  - Gerador de comentarios (documentação) para métodos em C++ e outras linguagens
-
+  - Gerador de comentarios (documentação) para métodos em C++ e outras linguagens.
